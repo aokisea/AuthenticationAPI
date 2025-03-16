@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IgnacioBackendApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67efdafddd1bd80f48644ad37022dbd5bc122a25")]
 [assembly: System.Reflection.AssemblyProductAttribute("IgnacioBackendApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IgnacioBackendApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

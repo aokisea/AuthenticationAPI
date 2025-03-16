@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FOSUekIc2zeYeHh2UeGyIJgsWsnWo1qysEuJrAdUUxg=",
+  "Source": "IgnacioBackendApp",
+  "BasePath": "_content/IgnacioBackendApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
